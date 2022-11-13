@@ -7,10 +7,6 @@
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="samples/ferrari_landscape.png" alt="landscape_sample">
   </a>
-
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="samples/ferrari_portrait.png" alt="landscape_portrait">
-  </a>
   
 </div>
 
