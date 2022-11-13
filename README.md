@@ -1,6 +1,8 @@
 <!-- ABOUT THE PROJECT -->
 # Ferrari F1 Artwork Scraper
 
+This script will scrape F1 Cover Art images from Ferrari's F1 website. These artworks are created to promote each race weekend.
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -10,13 +12,17 @@
   
 </div>
 
-This script will scrape F1 Cover Art images from Ferrari's F1 website. These artworks are created to promote each race weekend.
-
 More Info:
 * Scrapes artwork from the following seasons: 2019, 2020, 2021, 2022.
 * Includes portrait and landscape artwork for each race weekend.
 * Portrait images are 830x804 resolution.
 * Landscapre images are 766x430 resolution. 
+
+TO DO LIST:
+1. Allow custom filename output
+2. Create smarter default filenames (parse race name out of url)
+3. Get full size images
+4. Remove white background from portrait images.
 
 <!-- GETTING STARTED -->
 ## Getting Started
