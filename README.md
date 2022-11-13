@@ -5,11 +5,11 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="samples/ferrari_landscape.png" alt="landscape_sample" width="80" height="80">
+    <img src="samples/ferrari_landscape.png" alt="landscape_sample" width="500" height="500">
   </a>
 
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="samples/ferrari_portrait.png" alt="landscape_portrait" width="80" height="80">
+    <img src="samples/ferrari_portrait.png" alt="landscape_portrait" width="500" height="500">
   </a>
   
 </div>
